@@ -1,27 +1,3 @@
-
-"""
-##--------------------------------------------------------------------------------------------------##
-##                                     Carga de Datos                                               ##
-##--------------------------------------------------------------------------------------------------##
-
-##--------------------------------------------------------------------------------------------------##
-## Desarrollador: Sebastián Ospina Valencia                                                         ##
-## Fecha:         17/08/2021                                                                        ##
-## Tipo:          NA                                                                                ##
-## Simbolo:       BA                                                                                ##
-## Periodo:       1H                                                                                ##
-## Plataforma:    MT5                                                                               ##
-## Estado:        Desarrollo                                                                        ##
-##--------------------------------------------------------------------------------------------------##
-
-##Advertencia: El código aquí contenido es propiedad del autor. Cualesquier modificación, uso y/o
-##usufructo, debe estar autorizado por el autor. El uso indebido de este código será sancionado bajo
-##la ley 23 de 1982 sobre Derechos de Autor 
-"""
-
-
-# Carga de Librerías
-
 import pandas as pd
 import numpy as np
 import datetime
